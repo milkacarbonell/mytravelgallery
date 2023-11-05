@@ -1,0 +1,23 @@
+body {
+  margin:0;
+  background-color: beige
+}
+
+img {
+  padding:5px;
+  width:400px;
+  height:300px;
+}
+
+h1 {
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+  background-color:#b2b290;
+  padding:15px;
+  border: 2px solid black;
+}
+
+.gallery {
+   display: flex;
+   justify-content:center;
+}
